@@ -16,7 +16,7 @@
 @keyframes animate{
     0%,100%{
         background-image:url(images/img1G.jpg);
-       
+        filter: brightness(60%);
     }
     25%{
         background-image:url(images/img5C.jpg);
